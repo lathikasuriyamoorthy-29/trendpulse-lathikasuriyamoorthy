@@ -1,0 +1,89 @@
+post_id,title,category,score,num_comments,author,collected_at
+49959869,Powerless F1 drivers frustrated by Bahrain F1 software glitch,sports,176,109,llm_nerd,2026-10-05 06:48:56.805436
+49925261,Sudo – A dedicated music player designed around listening to music,sports,52,79,kapsteur,2026-10-05 06:49:51.581926
+49917102,Steelers ex-coach Mike Tomlin has been building a Minecraft city for 12 years,sports,31,1,Vaslo,2026-10-05 06:50:38.306164
+49957116,Turn off Apple Intelligence on macOS 27 and get its disk space back,science,510,319,privacyisntdead,2026-10-05 06:50:43.766219
+49956035,Incentives in Academic Research,science,47,43,zero_k,2026-10-05 06:50:48.459475
+49942130,Former SR-71 engineer talks NASA's Blackbird revival program,science,110,76,rkagerer,2026-10-05 06:50:50.213243
+49951641,What's the future for pure math research in the age of AI?,science,59,46,6bitquant,2026-10-05 06:50:51.559690
+49931993,Show HN: Our space game has a built-in RISC-V emulator that runs Linux,science,90,29,nor-and-or-not,2026-10-05 06:50:59.630905
+49932147,A 12-year sequence of telescope images of a star and four planets orbiting,science,402,82,mariuz,2026-10-05 06:51:03.117313
+49926628,Automatic Transmission – a data-privacy study of connected vehicles,science,262,233,rafaelc,2026-10-05 06:51:05.571284
+49955544,Does Costco Cause Cancer?,science,15,3,paulpauper,2026-10-05 06:51:15.923804
+49931725,Scientists invent underwater umbrellas to protect coral reefs,science,33,14,giuliomagnifico,2026-10-05 06:51:17.026267
+49940233,Where Is the Planet,science,33,3,andsoitis,2026-10-05 06:51:19.096655
+49934351,Sea Monkeys Show Scientists How to Rewrite a Rule of Turbulence,science,10,1,ibobev,2026-10-05 06:51:21.723976
+49940219,Things that apparently cause cancer,science,211,78,timpera,2026-10-05 06:51:25.280598
+49959070,Study of 2.5M children finds no link between MMR vaccine and autism,science,12,2,downbad_,2026-10-05 06:51:25.506272
+49912955,Surprisingly complex waves reveal the brain's inner workings,science,253,98,ibobev,2026-10-05 06:51:32.746532
+49955600,Superpowers Race to Put Nuclear Reactors on the Moon,science,5,0,aeroscissorz1,2026-10-05 06:51:34.712524
+49936909,"Colorectal Cancer Is Rising Among the Young, Even Kids and Teens",science,42,36,gumby,2026-10-05 06:51:44.514527
+49937193,Scientists untangle the biology of an 'undruggable' cancer gene,science,11,5,gumby,2026-10-05 06:51:47.099242
+49940309,Epilepsy and multidimensional time:a perspective inspired by theoretical physics,science,7,0,bookofjoe,2026-10-05 06:51:48.665038
+49947559,"Milt Windler, NASA flight director who helped save Apollo 13, dies at 94",science,5,2,divbzero,2026-10-05 06:51:53.804100
+49945985,Will A.I. Make Your Brain Lazy? Here's What the New Research Shows,science,8,1,kingcauchy,2026-10-05 06:51:56.137755
+49912782,The eruption that destroyed Pompeii is helping scientists date Earth's history,science,17,0,gmays,2026-10-05 06:52:00.780818
+49928550,"NASA has a Dragon dilemma, and there appear to be no good answers",science,17,1,Terretta,2026-10-05 06:52:07.428532
+49940517,AI bots are flooding researchers with requests for money and time,science,7,1,doener,2026-10-05 06:52:12.977393
+49950197,China's space plane appears to have released a mystery object in orbit,science,7,0,mooreds,2026-10-05 06:52:14.109951
+49929278,"Creatine may help build muscle even without exercise, researchers find",science,12,7,gradus_ad,2026-10-05 06:52:14.775217
+49946148,Automating my 35mm film scanning pipeline,entertainment,65,47,shannadige,2026-10-05 06:52:19.556009
+49955297,Blindsight (Watts Novel),entertainment,76,71,mooreds,2026-10-05 06:52:22.346046
+49945323,City building games have a Soul Problem pt.2,entertainment,165,155,lexx,2026-10-05 06:52:28.552006
+49940394,"Newgrounds.com – A community of games, music, and art",entertainment,457,136,azhenley,2026-10-05 06:52:35.172539
+49928215,Show HN: Pyxel – A Python retro game engine with built-in art and sound editors,entertainment,98,8,kitao,2026-10-05 06:52:43.551053
+49933740,"With most information hidden, the game Stratego had stumped AI until now",entertainment,286,148,PaulHoule,2026-10-05 06:52:45.918349
+49931195,"Capcom RE:Dox, open source serialization/deserialization for game engines",entertainment,34,7,vblanco,2026-10-05 06:52:58.034237
+49950288,"AI can clone your indie game, but not its soul",entertainment,20,19,robertvaradan,2026-10-05 06:52:59.016480
+49927872,Cancel Your Subscription: a free browser game,entertainment,32,9,kamphey,2026-10-05 06:53:02.988019
+49956396,Micro Center requires photo ID and signed no-export pledge to buy gaming GPU,entertainment,8,2,aillia,2026-10-05 06:53:04.198245
+49936105,"Retro Gaming: It's Not Nostalgia, It's Resistance",entertainment,8,0,paimapi,2026-10-05 06:53:18.057090
+49927652,Disney World has a better underground cable infrastructure than most cities,entertainment,8,6,ripe,2026-10-05 06:53:30.662390
+49940277,The Rise of the Meritocracy (satirical novel),entertainment,7,0,heresie-dabord,2026-10-05 06:53:45.102172
+49961057,"Anthropic reported diary entry to police, woman faces felony charge",worldnews,34,31,emptybits,2026-10-05 06:53:50.831957
+49951881,"In Ukraine, distributed renewables foil Russia's assaults",worldnews,167,189,JumpCrisscross,2026-10-05 06:54:04.103093
+49927754,Court agrees with EFF: Utah's VPN law demands a technical impossibility,worldnews,800,402,hn_acker,2026-10-05 06:54:04.635086
+49938326,"Three AI agents, two countries, and one uneven world wide web",worldnews,42,1,effects,2026-10-05 06:54:06.341484
+49959623,Court Tosses Sentence After A.I. Video of Victim 'Forgiving' His Killer,worldnews,7,1,sbulaev,2026-10-05 06:54:11.110089
+49932402,On social reality in China,worldnews,255,261,thicTurtlLverXX,2026-10-05 06:54:16.965296
+49951139,UK Government Body Kept Files on People Criticizing Prevent Program,worldnews,73,28,latein,2026-10-05 06:54:18.046060
+49958358,AI doesn't need 'superintelligence' or evil intent to start a nuclear war,worldnews,17,10,bookofjoe,2026-10-05 06:54:18.735921
+49933230,Venice’s failed war against Constantinople led to the first bond market,worldnews,172,59,RickJWagner,2026-10-05 06:54:21.433826
+49951966,Protest against housing crisis in Spain,worldnews,29,55,akbarnama,2026-10-05 06:54:26.399248
+49920234,Returning from vacation? The government can search your phone without a warrant,worldnews,411,378,rbanffy,2026-10-05 06:54:32.340457
+49943451,The Escalation of War in Ethiopia,worldnews,152,166,mooreds,2026-10-05 06:54:43.875959
+49956736,"Plague death triggers quarantine, mask mandates in Russia's Irkutsk region",worldnews,12,0,_tk_,2026-10-05 06:54:46.488529
+49923944,"Breaking the Cipher of the Napoleonic war briefing, unread for 217 years",worldnews,25,0,theanonymousone,2026-10-05 06:54:47.945573
+49959018,Zelenskyy says Ukraine is developing satellite system similar to Starlink,worldnews,6,0,uxhacker,2026-10-05 06:54:52.114737
+49955572,Russian strategy of war crimes escalation in Ukraine (winter 2026/2027),worldnews,20,4,froggy,2026-10-05 06:54:53.703870
+49937510,California AB 2047 (3D Printer law) enacted,worldnews,11,5,nvahalik,2026-10-05 06:54:57.253441
+49956275,Is Russia using AI for disinformation in CAR?,worldnews,11,2,devonnull,2026-10-05 06:55:00.511041
+49929113,How Singapore's government-run dating service works,worldnews,255,366,danielfoster,2026-10-05 06:55:00.962566
+49935867,ICC judge on what U.S. sanctions mean for her and global courts,worldnews,229,173,rbanffy,2026-10-05 06:55:02.200831
+49944127,US killer's sentence quashed because of AI video of victim shown in court,worldnews,75,60,porridgeraisin,2026-10-05 06:55:07.567533
+49952956,University asks staff to review some partnerships with China after MI5 warning,worldnews,6,0,snarky-comments,2026-10-05 06:55:09.930368
+49953495,Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s,technology,739,329,snehesht,2026-10-05 06:55:26.429287
+49956681,A browser-native classic Visual Basic VB6 IDE,technology,166,63,wiso,2026-10-05 06:55:27.605537
+49957068,Improper redaction reveals Google Data Center water and electricity usage,technology,354,458,sensanaty,2026-10-05 06:55:28.441010
+49958850,ArtCraft Apps – open-source Adobe compatible suite written in Rust,technology,98,98,aghuang,2026-10-05 06:55:29.216312
+49940044,Demystifying Tufte's data-ink ratio,technology,31,10,s4074433,2026-10-05 06:55:29.553760
+49957117,Homa: The end of TCP for AI clusters [video],technology,70,34,signa11,2026-10-05 06:55:30.502067
+49951891,"How to scale intent, quality, and artistry with AI [video]",technology,75,25,simonjgreen,2026-10-05 06:55:31.460396
+49952111,Show HN: AI search for every photo and every frame of video on macOS,technology,150,67,allenleee,2026-10-05 06:55:31.909614
+49950554,Why don't more developers “use the platform”?,technology,295,304,vinhnx,2026-10-05 06:55:32.650435
+49960628,"Kagi Ends Orion Browser Development for Linux, Will Open-Source It",technology,16,6,MilnerRoute,2026-10-05 06:55:33.521157
+49951218,Emitting metadata early makes building/checking Rust up to twice as fast,technology,136,32,knuckleheads,2026-10-05 06:55:33.730694
+49956771,Show HN: Build with Python – a beginner course where your code draws,technology,35,11,davidwshao,2026-10-05 06:55:34.139846
+49935038,Magic Switch: Share Apple Magic keyboard/track-pad/mouse between two Macs,technology,80,45,chanux,2026-10-05 06:55:34.355264
+49946895,The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux,technology,472,97,speckx,2026-10-05 06:55:36.004969
+49946228,"LeCun has ""zero concerns"" about AI wiping out humanity, recent ""rogue"" incidents",technology,398,741,Anon84,2026-10-05 06:55:36.341697
+49954875,TurboPython – A Python-to-C++ Compiler,technology,16,9,lumpa,2026-10-05 06:55:37.715643
+49928361,C++ Insights – See your source code with the eyes of a Compiler,technology,172,36,rramadass,2026-10-05 06:55:38.701854
+49942706,Kolibri: A Sovereign Open-Weight Model,technology,666,327,bastitx,2026-10-05 06:55:39.046738
+49937304,Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server,technology,115,47,edverma2,2026-10-05 06:55:40.859400
+49956574,Google Japan shows off conveyor-belt keyboard with keys that move to fingers,technology,37,12,thunderbong,2026-10-05 06:55:40.977916
+49935097,gpuvis: GPU Trace Visualizer,technology,73,10,luu,2026-10-05 06:55:41.869611
+49956148,Building a RAG pipeline for semantic code search,technology,36,9,saikatsg,2026-10-05 06:55:43.443750
+49937276,Apple Pass Designer,technology,562,337,soheilpro,2026-10-05 06:55:45.513576
+49923466,"RIP, vector database",technology,394,116,razin,2026-10-05 06:55:45.842233
+49937916,Show HN: Made an open-source Lego AI generator,technology,154,50,antelocnova,2026-10-05 06:55:47.403083
